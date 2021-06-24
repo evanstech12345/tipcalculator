@@ -14,3 +14,11 @@ body {
     height: 700px;
     background-color: rgb(96, 94, 94) ;
 }
+
+.label_tip {
+    position: relative;
+    color: white;
+}
+input {
+    background-color: lightgrey;
+}
